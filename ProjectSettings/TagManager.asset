@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Peace
+  - Golem
+  - House
+  - BattleField
+  - Monster
+  - Canvas
+  - SE_Monster
+  - SE
+  - BGM
+  - ControllerManager
+  - Messager
+  - DamageTextCanvas
+  - GoblinBuild
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Peace
+  - Water
+  - UI
+  - Golem1
+  - Golem2
+  - House1
+  - House2
+  - Floor
+  - Monster0
+  - Monster1
+  - PeaceFloor
+  - Message
+  - Cannon0
+  - Cannon1
+  - MonstarsObj
+  - MonstarBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2159439133
+    locked: 0
+  - name: Castle
+    uniqueID: 3903160507
+    locked: 0
+  - name: GlowPeace
+    uniqueID: 3254306707
+    locked: 0
+  - name: Golem
+    uniqueID: 1749034075
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Golem
+    uniqueID: 1419988997
+    locked: 0
+  - name: Field
+    uniqueID: 1749715385
+    locked: 0
+  - name: UI
+    uniqueID: 94350297
+    locked: 0
+  - name: Fade
+    uniqueID: 370519605
+    locked: 0
